@@ -1,5 +1,13 @@
 # Hybrid CNN Network Intrusion Detection System
 
+[![License: MIT](https://img.shields.io/github/license/sadiasanacspaper-rgb/hybrid-cnn-network-ids)](./LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/sadiasanacspaper-rgb/hybrid-cnn-network-ids)](https://github.com/sadiasanacspaper-rgb/hybrid-cnn-network-ids/commits/main)
+[![Repo size](https://img.shields.io/github/repo-size/sadiasanacspaper-rgb/hybrid-cnn-network-ids)](https://github.com/sadiasanacspaper-rgb/hybrid-cnn-network-ids)
+[![Platform](https://img.shields.io/badge/platform-Google%20Colab-orange)](https://colab.research.google.com/)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 A research-grade, **single Google Colab cell** that builds, trains and evaluates a hybrid
 network intrusion detection system on the combined **CIC-IDS2017** and **CSE-CIC-IDS2018**
 datasets, maps detections to **MITRE ATT&CK**, and serves everything through an interactive
