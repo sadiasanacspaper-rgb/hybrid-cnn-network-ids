@@ -1,0 +1,22 @@
+# Datasets downloaded/cached by the notebook at runtime
+ids_data/
+*.parquet
+
+# Generated artifacts (figures, csvs, saved models)
+IDS_Results/
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
